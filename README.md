@@ -9,7 +9,7 @@ Machine Learning algorithms can be supervised or unsupervised.
 
 Types of Machine Learning Algorithms that I have learned and implemented:
 
-Regression Models
+1. Regression Models
 
 Regression modelling in machine learning consists of mathematical methods that allow data scientists 
      to predict a continuous outcome (y) based on the value of one or more predictor parameters (x).
