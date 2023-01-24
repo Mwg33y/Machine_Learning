@@ -59,7 +59,7 @@ gradually refines a model of the probability of the reward for each action
 Natural Language Processing
 
 7. XG Model Boosting
-      *XGBoost improves model generalization capabilities. It delivers high performance as 
+XGBoost improves model generalization capabilities. It delivers high performance as 
 compared to other methods (i.e. gradient Boosting). Its training is very fast and can be parallelized across 
 clusters using tree learning algorithms. It is also used to boodt machine learning abilities of linear,
 and calssification model algorithms.
