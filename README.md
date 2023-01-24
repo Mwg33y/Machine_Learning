@@ -7,7 +7,7 @@ along with computer software code to analyse data, identify data types, categori
 future predictions. The algorithm is trained and tested on the patitions of the available data from the observed system.
 Machine Learning algorithms can be supervised or unsupervised.
 
-Types of Machine Learning Algorithms
+Types of Machine Learning Algorithms that I have learned and implemented:
 
 Regression Models
 
