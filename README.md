@@ -6,3 +6,21 @@ Machine Learning is a type of Artificial Intelligence that uses different types 
 along with computer software code to analyse data, identify data types, categorize data, model a systems behaviour, make 
 future predictions. The algorithm is trained and tested on the patitions of the available data from the observed system.
 Machine Learning algorithms can be supervised or unsupervised.
+
+Types of Machine Learning Algorithms
+
+Regression Models
+
+Clustering Models
+
+Classification Models
+
+Model Selection 
+
+Dimensionality Reduction
+
+Reinforcement Learning
+
+Natural Language Processing
+
+XG Model Boosting
