@@ -7,7 +7,7 @@ along with computer software code to analyse data, identify data types, categori
 future predictions. The algorithm is trained and tested on the patitions of the available data from the observed system.
 Machine Learning algorithms can be supervised or unsupervised.
 
-Types of Machine Learning Algorithms (use cases that I have implemented with each type):
+Types of Machine Learning Algorithms (Use cases that I have implemented with each type):
 
 1. Regression Models (Determined the deserved salary of a new employee using their work history)
 
@@ -16,7 +16,7 @@ Regression modelling in machine learning consists of mathematical methods that a
      Linear regression is probably the most popular form of regression analysis.
      Clustering Models
 
-2. Classification Models (used customer information to categorize those who saw company advertisement and those who did not)
+2. Classification Models (Used customer information to categorize those who saw company advertisement and those who did not)
     
 Classification is a machine learning method where the model tries to predict the correct label of a 
 given input data, and placing it in a group with other data elements. This is done having prior knowledge
@@ -58,7 +58,7 @@ randomly drawn belief. It is a reinforcement learning algorithm that follows exp
 gradually refines a model of the probability of the reward for each action
 Natural Language Processing
 
-7. XG Model Boosting (help predict which customers will leave or stay with a hypothetical bank)
+7. XG Model Boosting (Helped predict which customers will leave or stay with a hypothetical bank)
 
 XGBoost improves model generalization capabilities. It delivers high performance as 
 compared to other methods (i.e. gradient Boosting). Its training is very fast and can be parallelized across 
