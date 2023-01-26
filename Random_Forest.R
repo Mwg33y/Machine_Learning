@@ -5,7 +5,7 @@
 #variables of the regression model
 
 getwd()
-setwd("C:/Users/Deka/Desktop/DataAnalysis22/A_I/Machine_Learning_Lessons/Codes_Datasets/Part_2_Regression/Section_9_Random_Forest_Regression/R")
+setwd("C:/Users/Abdul/Desktop/DataAnalysis22/A_I/Machine_Learning_Lessons/Codes_Datasets/Part_2_Regression/Section_9_Random_Forest_Regression/R")
 
 
 dataset = read.csv('Position_Salaries.csv')
