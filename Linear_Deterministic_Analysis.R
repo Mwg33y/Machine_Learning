@@ -9,7 +9,7 @@
 
 
 getwd()
-setwd("C:/Users/Deka/Desktop/DataAnalysis22/A_I/Machine_Learning_Lessons/Codes_Datasets/Part_9_Dimensionality_Reduction/Section_44_Linear_Discriminant_Analysis/R")
+setwd("C:/Users/Abdul/Desktop/DataAnalysis22/A_I/Machine_Learning_Lessons/Codes_Datasets/Part_9_Dimensionality_Reduction/Section_44_Linear_Discriminant_Analysis/R")
 
 #a wine retailer is trying to find which wines his customers like and plce the customers
 #into categories according to their preferences. We will use the PCA to reduce the
